@@ -18,7 +18,6 @@ Some basic commands of git
 git add
 git push
 git pull
-
 ```
 
 The link to my home page [My home](https://google.com)
